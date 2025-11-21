@@ -1,0 +1,13 @@
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\bin\Debug\StudentsStudyPlanner.exe.config
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\bin\Debug\StudentsStudyPlanner.exe
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\bin\Debug\StudentsStudyPlanner.pdb
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.csproj.AssemblyReference.cache
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.MainForm.resources
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.Properties.Resources.resources
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.csproj.GenerateResource.cache
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.exe
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.pdb
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.exe.config
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.Forms.CourseForm.resources
+C:\Users\35987\source\repos\StudentsStudyPlanner\StudentsStudyPlanner\obj\Debug\StudentsStudyPlanner.Forms.TaskForm.resources
