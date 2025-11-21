@@ -309,5 +309,11 @@ namespace StudentsStudyPlanner
         {
             // няма нужда да прави нищо
         }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+            // Reuse the existing handler to avoid code duplication.
+            label1_Click(sender, e);
+        }
     }
 }
